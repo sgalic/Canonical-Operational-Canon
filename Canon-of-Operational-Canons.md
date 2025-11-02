@@ -29,3 +29,9 @@ Although the canon is authoritative, it is not static. Revision is both possible
 A temporary suspension of one or more canon statements is defined as a **departure**. Departures allow exploration of alternative assumptions, hypotheses, or models without permanently altering the canon. A departure must be explicitly declared, justified, and reversible. It does not modify the canon unless later adopted into the canonical text through formal revision.
 
 Through this balance of authority and adaptability, the Operational Canon provides a stable foundation for structured reasoning while remaining open to improvement. It ensures that knowledge remains coherent, interpretable, and maintainable over time.
+
+## 5. Citation
+**Operational Canon of Canons v1.0 (2025-11-02)**  
+Author: Stipe Galić
+Format: Markdown  
+Repository: [https://github.com/sgalic/Canonical-Operational-Canon](https://github.com)
