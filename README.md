@@ -1,4 +1,4 @@
-# README – Operational Canon of Canons (v1.0)
+# README – Operational Canon of Canons (v1.1)
 
 ## Overview
 The *Operational Canon of Canons* (CoC) defines a structured, evolving framework for reasoning, knowledge management, and decision logic. It establishes how individual “canons” — domain-specific bodies of rules, assumptions, and principles — should be written, maintained, and interpreted.
@@ -16,7 +16,7 @@ Markdown (.md) is the authoritative storage format for all canons. It ensures cr
 While authoritative, the CoC is intentionally adaptable. Revisions are accepted only with documented justification and changelog entries. Temporary suspensions — *Departures from Canon* — may be declared for experimental or hypothetical purposes but must be reversible unless formally adopted.
 
 ## Citation
-**Operational Canon of Canons v1.0 (2025-11-02)**  
+**Operational Canon of Canons v1.1 (2025-11-02)**
 Author: Stipe Galić
 Format: Markdown  
 Repository: [https://github.com/sgalic/Canonical-Operational-Canon](https://github.com)
@@ -30,4 +30,4 @@ Permission is granted, free of charge, to use, copy, modify, and distribute this
 
 ---
 
-*End of README for Operational Canon of Canons v1.0*
+*End of README for Operational Canon of Canons v1.1*

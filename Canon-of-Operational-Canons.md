@@ -6,7 +6,7 @@ This document establishes the Operational Canon, a structured and evolving frame
 
 All statements contained within the canon are to be treated as operational truths by default. These statements form the core of structured thought within the domain. Their validity is presumed unless a departure is formally declared. The canon is authoritative but not absolute. It may be revised, expanded, or corrected, provided that such changes are intentional and justified. Temporary suspensions of its content—when considering alternative assumptions or hypotheses—must be expressly declared.
 
-This preamble is the only component that must be inherited from the Canon of Canons (CoC) into any derived canon. All additional content is domain-specific. In cases of contradiction, the preamble of the Canon of Canons holds interpretative precedence unless a clear and reasoned departure is stated.
+This preamble is the only component that must be inherited from the Canon of Canons (CoC) into any derived canon. All additional content is domain-specific. In cases of contradiction, the preamble of the Canon of Canons holds interpretative precedence unless a clear and reasoned departure is stated. It is inherited verbatim from the **Operational Canon of Canons v1.1 (2025-11-02)** by Stipe Galić, available at [https://github.com/sgalic/Canonical-Operational-Canon](https://github.com/sgalic/Canonical-Operational-Canon).
 
 ## 2. Purpose, Scope, and Format
 
@@ -30,8 +30,3 @@ A temporary suspension of one or more canon statements is defined as a **departu
 
 Through this balance of authority and adaptability, the Operational Canon provides a stable foundation for structured reasoning while remaining open to improvement. It ensures that knowledge remains coherent, interpretable, and maintainable over time.
 
-## 5. Citation
-**Operational Canon of Canons v1.0 (2025-11-02)**  
-Author: Stipe Galić
-Format: Markdown  
-Repository: [https://github.com/sgalic/Canonical-Operational-Canon](https://github.com)
